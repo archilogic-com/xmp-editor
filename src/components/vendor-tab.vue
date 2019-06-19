@@ -24,7 +24,7 @@ export default {
       if (!item || item.vendor !== 'archilogic') return false
       const sceneId = item.sceneId
       const info = `<a href="https://dashboard.archilogic.com/scene/!${sceneId}/view" target="_blank">Open in Archilogic Dashboard</a>`
-      const url = `https://viewer.archilogic.com/?sceneId=${sceneId}&s=m3fss1p3`
+      const url = `https://viewer.archilogic.com/?sceneId=${sceneId}&s=m3fss1p3stmh`
       return { info, url }
     }
   }
