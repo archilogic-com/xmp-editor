@@ -4,13 +4,15 @@ Online editor and JavaScript library for XMP data in image files. Library mode s
 
 ## XMP Editor
 
-[https://xmp-editor.archilogic.com](https://xmp-editor.archilogic.com)
+Visit: [https://xmp-editor.archilogic.com](https://xmp-editor.archilogic.com)
 
-## XMP Library
+## XMP Library
 
 WARNING: This is still work in progress. Expect API changes.
 
-Browser example [(Open live demo)](https://codesandbox.io/s/xmp-editor-lib-browser-example-2gh88?fontsize=14&hidenavigation=1):
+### Browser example
+
+[Open live demo](https://codesandbox.io/s/xmp-editor-lib-browser-example-2gh88?fontsize=14&hidenavigation=1)
 
 ```html
 <!DOCTYPE html>
@@ -40,15 +42,15 @@ Browser example [(Open live demo)](https://codesandbox.io/s/xmp-editor-lib-brows
 </html>
 ```
 
-Node.js example:
+### Node.js example:
 
-1. Install 
+Install:
 
 ```sh
 npm install archilogic-com/xmp-editor#master
 ```
 
-2. Use
+Use:
 
 ```js
 const { jpgReadXmp } = require('archilogic-com/xmp-editor#master')
