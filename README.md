@@ -1,5 +1,7 @@
 # XMP Editor and JavaScript Library
 
+![XMP Editor Sreenshot](https://storage.3d.io/535e624259ee6b0200000484/2019-06-21_12-42-53_jSWfT0/XMP_Editor.png)
+
 Online editor and JavaScript library for XMP data in image files. Library mode supports browser and Node.js environments. [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) is a data format to store any set of standardized and custom metadata properties in digital documents and data sets. Currently reading and writing JPG images is supported. PNG and GIF support will be added later. Contributions are always welcome.
 
 ## Editor
